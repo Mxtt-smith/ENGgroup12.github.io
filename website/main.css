@@ -1,0 +1,16 @@
+.heading{
+  left: 25%;
+  color: blueviolet;
+}
+ul{
+  float: centre;
+  list-style-type: none;
+}
+
+ 
+    
+    nav {
+      display: block;
+      padding: 8px;
+      background-color: #dddddd;
+    }
