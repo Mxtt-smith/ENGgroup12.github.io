@@ -29,3 +29,9 @@ li a:hover {
   text-align: center;
   font-size: large;
 }
+
+.pdfchild {
+  display: inline-block;
+  width: 49%;
+  height: 1000px
+}
